@@ -4,7 +4,7 @@
   "logo": "",
   "keywords": ["nodejs", "bot", "whatsapp", "automation", "multi-device", "kavi-x"],
   "documentation-link": "https://kavi-x-bot.onrender.com/",
-  "owner-verification": "kavideveloper.se@gmail.com",
+  "owner-verification": "cyberkavi011@gmail.com",
 
   "env": {
     "SESSION_ID": {
