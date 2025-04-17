@@ -1,0 +1,76 @@
+{
+  "bot-name": "KAVI-X",
+  "description": "A multi-device WhatsApp bot for automation, developed by Cyber Kavi.",
+  "logo": "",
+  "keywords": ["nodejs", "bot", "whatsapp", "automation", "multi-device", "kavi-x"],
+  "documentation-link": "https://kavi-x-bot.onrender.com/",
+  "owner-verification": "kavideveloper.se@gmail.com",
+
+  "env": {
+    "SESSION_ID": {
+      "description": "WhatsApp Web session ID.",
+      "value": "",
+      "required": true
+    },
+    "BOTNAME": {
+      "description": "Bot's display name.",
+      "value": "KAVI-X",
+      "required": true
+    },
+    "OWNERNUMBER": {
+      "description": "Owner's WhatsApp number (without `+`).",
+      "value": "94702128378",
+      "required": true
+    },
+    "OWNERNAME": {
+      "description": "Owner's display name.",
+      "value": "Cyber Kavi",
+      "required": true
+    },
+    "WEBSITEX": {
+      "description": "Your website URL (optional).",
+      "value": "https://kavi-x-bot.onrender.com/",
+      "required": false
+    },
+    "WAGC": {
+      "description": "Support/community WhatsApp group link.",
+      "value": "",
+      "required": false
+    },
+    "BOTSCRIPT": {
+      "description": "Bot source code or repository link.",
+      "value": "https://github.com/KaviDeveloperSe/KAVI-X-BOT",
+      "required": false
+    },
+    "PACKNAME": {
+      "description": "Sticker pack name.",
+      "value": "KAVI-X",
+      "required": true
+    },
+    "AUTHOR": {
+      "description": "Sticker author name.",
+      "value": "Cyber Kavi",
+      "required": true
+    },
+    "CREATOR": {
+      "description": "Bot creator's WhatsApp number.",
+      "value": "94766577249@s.whatsapp.net",
+      "required": true
+    },
+    "BOTPREFIX": {
+      "description": "Command prefix (e.g., `!`, `/`, `.`).",
+      "value": ".",
+      "required": true
+    },
+    "RESTART": {
+      "description": "Put your restart value here (e.g., true or false).",
+      "value": "true",
+      "required": true
+    },
+    "MONGODB_URI": {
+      "description": "MongoDB database URI.",
+      "value": "",
+      "required": true
+    }
+  }
+}
