@@ -1,7 +1,7 @@
 {
   "bot-name": "KAVI-X",
   "description": "A multi-device WhatsApp bot for automation, developed by Cyber Kavi.",
-  "logo": "",
+  "logo": "https://i.postimg.cc/Gt0yZcBZ/kavix.jpg",
   "keywords": ["nodejs", "bot", "whatsapp", "automation", "multi-device", "kavi-x"],
   "documentation-link": "https://kavi-x-bot.onrender.com/",
   "owner-verification": "cyberkavi011@gmail.com",
